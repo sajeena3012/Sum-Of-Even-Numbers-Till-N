@@ -24,4 +24,4 @@ Print a single line for each test case.
 Constraints:
 
 1 <= T <= 10
-1 <= N <= 10^5
+
